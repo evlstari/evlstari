@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evlstari or call me TOM
-- 👀 I’m interested in Mobile programming and system security
+- 👀 I’m interested in Web/Mobile programming and system security
 - 🌱 I’m currently learning Flutter and networking
 - 💞️ I’m looking to collaborate on Flutter programming
 - 📫 Say hello to me on telegram @ev_lst or email on @evlstari99@gmail.com
