@@ -1,17 +1,30 @@
-
-<picture>
+<div id="header" align="center">
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/evlstari/evlstari/blob/main/octocat-1687976941962.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/evlstari/evlstari/blob/main/octocat-1687976941962.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/evlstari/evlstari/blob/main/octocat-1687976941962.png" height="400">
-</picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/evlstari/evlstari/blob/main/octocat-1687976941962.png" height="300">
+  </picture>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/evi-lestari/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/build-%20-lightblue?style=bold&logo=Linkedin&logoColor=navy&label=Linkedin&labelColor=lightblue&link=%3Cimg%3E" alt="linkedin">
+  </a>
+  <a href="https://www.youtube.com/channel/UCBJDz0SYn8aMOj3du0o5_5A">
+   <img alt="Static Badge" src="https://img.shields.io/badge/build-%20-red?style=bold&logo=Youtube&logoColor=red&label=Youtube&labelColor=yellow&link=%3Cimg%3E" alt="youtube">
+  </a>
+  <a href="https://www.instagram.com/ev_lstari/">
+   <img alt="Static Badge" src="https://img.shields.io/badge/build-%20-pink?style=flat&logo=instagram&logoColor=purple&label=Instagram&labelColor=pink&cacheSeconds=3600&link=%3Cimg%3E" alt="instagram">
+  </a>
+</div>
+  <dl>
+    <dt>👋 Hi, I’m @evlstari or call me evi</dt>
+    <dt>👀 I’m interested in Web/Mobile programming and system security</dt>
+    <dt>🌱 I’m currently learning Flutter and networking</dt>
+    <dt>💞️ I’m looking to collaborate on Flutter programming</dt>
+    <dt>📫 Say hello to me on telegram @ev_lst or email on @evlstari99@gmail.com</dt>
+  </dl>
 
-- 👋 Hi, I’m @evlstari or call me evi
-- 👀 I’m interested in Web/Mobile programming and system security
-- 🌱 I’m currently learning Flutter and networking
-- 💞️ I’m looking to collaborate on Flutter programming
-- 📫 Say hello to me on telegram @ev_lst or email on @evlstari99@gmail.com
-
-
+  <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=evlstari&amp;theme=dark&amp;date_format=j%20M%5B%20Y%5D&amp;mode=weekly" alt="GitHub Streak" /></a></p>
+</div>
 
 <!---
 <p align="left">
