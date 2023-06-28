@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evlstari or call me TOM
+- 👋 Hi, I’m @evlstari or call me evi
 - 👀 I’m interested in Web/Mobile programming and system security
 - 🌱 I’m currently learning Flutter and networking
 - 💞️ I’m looking to collaborate on Flutter programming
