@@ -11,7 +11,7 @@
   <a href="https://www.youtube.com/channel/UCBJDz0SYn8aMOj3du0o5_5A">
    <img alt="Static Badge" src="https://img.shields.io/badge/build-%20-red?style=bold&logo=Youtube&logoColor=red&label=Youtube&labelColor=yellow&link=%3Cimg%3E" alt="youtube">
   </a>
-  <a href="https://www.instagram.com/ev_lstari/">
+  <a href="https://www.instagram.com/evvlst1/">
    <img alt="Static Badge" src="https://img.shields.io/badge/build-%20-pink?style=flat&logo=instagram&logoColor=purple&label=Instagram&labelColor=pink&cacheSeconds=3600&link=%3Cimg%3E" alt="instagram">
   </a>
 </div>
