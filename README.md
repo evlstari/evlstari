@@ -16,11 +16,11 @@
   </a>
 </div>
   <dl>
-    <dt>👋 Hi, I’m @evlstari or call me evi</dt>
+    <dt>👋 Hi, I’m @evlstari</dt>
     <dt>👀 I’m interested in Web/Mobile programming and system security</dt>
     <dt>🌱 I’m currently learning Flutter and networking</dt>
     <dt>💞️ I’m looking to collaborate on Flutter programming</dt>
-    <dt>📫 Say hello to me on telegram @ev_lst or email on @evlstari99@gmail.com</dt>
+    <dt>📫 Say hello to me on telegram @ev_lst or email on @evilestari.hireme@gmail.com</dt>
   </dl>
 
   <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=evlstari&amp;theme=dark&amp;date_format=j%20M%5B%20Y%5D&amp;mode=weekly" alt="GitHub Streak" /></a></p>
